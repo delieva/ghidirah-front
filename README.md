@@ -1,1 +1,1 @@
-# ghidirah-front
+# ghidorah-front
