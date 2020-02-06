@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import styles from './app.module.scss';
+import Home from '../../pages/Home'
 class App extends Component {
 	render() {
-		return <div className={styles.ddiv}>Hello World</div>;
+		return <Home />;
 	}
 }
 export default App;

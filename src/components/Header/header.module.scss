@@ -1,0 +1,18 @@
+@import "../../assets/variables";
+
+.header {
+  position: absolute;
+  height: 9%;
+  background-color: $light-green;
+  width: 100%;
+
+  &::after {
+    content: "";
+    display: block;
+    width: 90%;
+    height: 2px;
+    position: absolute;
+    top: 5em;
+    background-color: $green;
+  }
+}

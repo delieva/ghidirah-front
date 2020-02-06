@@ -1,6 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
+import Page from '../Page'
 
-class Home = () => (
-		<div>Hello World mufucker</div>
-)
-export default App;
+const Home = () => (
+		<Page />
+);
+
+export default Home;

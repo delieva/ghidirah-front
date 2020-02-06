@@ -18,13 +18,18 @@
   },
   "homepage": "https://github.com/delieva/ghidorah-front#readme",
   "dependencies": {
+    "connected-react-router": "^6.6.1",
     "css-loader": "^3.2.0",
     "node-sass": "^4.13.1",
     "postcss-loader": "^3.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-redux": "^7.1.3",
     "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "redux": "^4.0.5",
+    "redux-actions": "^2.6.5",
     "sass-loader": "^8.0.0",
     "style-loader": "^1.1.3",
     "webpack": "^4.41.5"
